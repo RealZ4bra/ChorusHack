@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f3a054ff-c14e-4ce3-b9ee-ac7cca0316a6" />
+<img width="350" height="350" alt="Chorus" src="https://github.com/user-attachments/assets/f3a054ff-c14e-4ce3-b9ee-ac7cca0316a6" />
 
 </p>
 
