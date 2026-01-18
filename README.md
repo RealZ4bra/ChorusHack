@@ -4,7 +4,7 @@
 " width="15%"/>
 </p>
 
-<h1 align="center">Meteor</h1>
+<h1 align="center">Chorus</h1>
 <p align="center">A Minecraft Fabric Utility Mod for anarchy servers.</p>
 
 <div align="center">
@@ -17,6 +17,8 @@
     <img src="https://img.shields.io/github/languages/code-size/MeteorDevelopment/meteor-client" alt="GitHub code size in bytes"/>
     <img src="https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/MeteorDevelopment/meteor-client/badge?filter=.java$&label=lines%20of%20code&color=blue" alt="GitHub lines of code"/>
 </div>
+
+## Meteor stuff bellow
 
 ## Usage
 
