@@ -84,7 +84,7 @@ public class Config extends System<Config> {
         .name("window-title-text")
         .description("The text it displays in the window title.")
         .visible(customWindowTitle::get)
-        .defaultValue("Minecraft {mc_version} - {meteor.name} {meteor.version}")
+        .defaultValue("Minecraft {mc_version} - Chorus Hack!")
         .onChanged(value -> mc.updateWindowTitle())
         .build()
     );
