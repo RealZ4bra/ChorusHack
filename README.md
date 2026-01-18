@@ -8,9 +8,8 @@
 <p align="center">A Minecraft client/utility mod for anarchy!.</p>
 
 <div align="center">
-    <a href="https://discord.gg/bBGQZvd"><img width="50" height="19" alt="image" src="https://github.com/user-attachments/assets/67852b6d-44d0-4dd3-a3ae-4caecc44b7ad" />
+    <a href="https://discord.gg/bBGQZvd"><<img width="50" height="19" alt="image" src="https://github.com/user-attachments/assets/3d964ef6-93fe-4fbc-8dc3-6e7e1c4b5d7b" />
 
-" alt="Discord"/></a>
 </div>
 
 ### Meteor stuff bellow
