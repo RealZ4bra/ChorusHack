@@ -8,7 +8,7 @@
 <p align="center">A Minecraft client/utility mod for anarchy!.</p>
 
 <div align="center">
-    <a href="https://discord.gg/bBGQZvd"><<img width="50" height="19" alt="image" src="https://github.com/user-attachments/assets/3d964ef6-93fe-4fbc-8dc3-6e7e1c4b5d7b" />
+    <a href="https://discord.gg/bBGQZvd"><img width="50" height="19" alt="image" src="https://github.com/user-attachments/assets/3d964ef6-93fe-4fbc-8dc3-6e7e1c4b5d7b" />
 
 </div>
 
