@@ -27,7 +27,6 @@ Note: This isnt done Yet!
 - Drag and Drop Chorus Hack.jar Into Your Mods Folder, If you cant find it double click it if you have java.
 - C:\Users\UR-USERNAME\AppData\Roaming\.minecraft
 
-- hello :)
 
 
 
@@ -81,4 +80,6 @@ If you use **ANY** code from the source:
 - You must state clearly and obviously to all end users that you are using code from this project.
 - Your application must also be licensed under the same license.
 
+
+- hello :)
 *If you have any other questions, check our [FAQ](https://meteorclient.com/faq) or ask in our [Discord](https://meteorclient.com/discord) server.*
