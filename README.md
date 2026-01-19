@@ -13,7 +13,7 @@ Note: This isnt done Yet!
 
 </div>
 
-## Chorus Hack stuff
+#Current Version: 1.21.11
 
 ### Information
 - Most Of the Code Is Owned By Meteor Development
