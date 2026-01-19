@@ -36,7 +36,7 @@ public class Config extends System<Config> {
     public final Setting<Boolean> customFont = sgVisual.add(new BoolSetting.Builder()
         .name("custom-font")
         .description("Use a custom font.")
-        .defaultValue(true)
+        .defaultValue(false)
         .build()
     );
 
@@ -59,22 +59,22 @@ public class Config extends System<Config> {
 
     public final Setting<Boolean> titleScreenCredits = sgVisual.add(new BoolSetting.Builder()
         .name("title-screen-credits")
-        .description("Show Meteor credits on title screen")
+        .description("Show Chorus credits on title screen")
         .defaultValue(true)
         .build()
     );
 
     public final Setting<Boolean> titleScreenSplashes = sgVisual.add(new BoolSetting.Builder()
         .name("title-screen-splashes")
-        .description("Show Meteor splash texts on title screen")
-        .defaultValue(true)
+        .description("Show Chorus splash texts on title screen")
+        .defaultValue(false)
         .build()
     );
 
     public final Setting<Boolean> customWindowTitle = sgVisual.add(new BoolSetting.Builder()
         .name("custom-window-title")
         .description("Show custom text in the window title.")
-        .defaultValue(false)
+        .defaultValue(true)
         .onModuleActivated(setting -> mc.updateWindowTitle())
         .onChanged(value -> mc.updateWindowTitle())
         .build()
@@ -84,7 +84,7 @@ public class Config extends System<Config> {
         .name("window-title-text")
         .description("The text it displays in the window title.")
         .visible(customWindowTitle::get)
-        .defaultValue("Minecraft {mc_version} - Chorus Hack!")
+        .defaultValue("{mc_version} - Chorus Hack")
         .onChanged(value -> mc.updateWindowTitle())
         .build()
     );
@@ -131,7 +131,7 @@ public class Config extends System<Config> {
     public final Setting<String> prefix = sgChat.add(new StringSetting.Builder()
         .name("prefix")
         .description("Prefix.")
-        .defaultValue(".")
+        .defaultValue(":")
         .build()
     );
 
