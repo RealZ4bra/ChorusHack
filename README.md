@@ -5,13 +5,22 @@
 </p>
 
 <h1 align="center">Chorus</h1>
-<p align="center">A Minecraft client/utility mod for anarchy!.</p>
+<p align="center">A Minecraft client/utility mod for anarchy! Fork of Meteor</p>
 
 <div align="center">
     <a href="https://discord.gg/bBGQZvd"><img width="50" height="19" alt="image" src="https://github.com/user-attachments/assets/94630a0d-f29f-420e-9467-987f86acebbe" />
 
 
 </div>
+
+## Chorus Hack stuff
+
+## Information
+- Most Of the Code Is Owned By Meteor Development
+- More Stuff Below
+- (I do not profit from this)
+
+
 
 ### Meteor stuff bellow
 
