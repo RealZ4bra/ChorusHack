@@ -27,6 +27,8 @@ Note: This isnt done Yet!
 - Drag and Drop Chorus Hack.jar Into Your Mods Folder, If you cant find it double click it if you have java.
 - C:\Users\UR-USERNAME\AppData\Roaming\.minecraft
 
+- hello :)
+
 
 
 
