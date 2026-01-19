@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "Chorus Hack",
-  "id": "meteor-client",
+  "id": "chorus-hack",
   "version": "${version}",
   "description": "Utility mod fork from Meteor client",
   "authors": [
@@ -9,9 +9,7 @@
     "Meteor Development"
   ],
   "contact": {
-    "homepage": "https://meteorclient.com",
-    "issues": "https://github.com/MeteorDevelopment/meteor-client/issues",
-    "sources": "https://github.com/MeteorDevelopment/meteor-client",
+    "sources": "https://github.com/RealZ4bra/ChorusHack",
     "discord": "https://meteorclient.com/discord"
   },
   "license": "GPL-3.0",
