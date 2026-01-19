@@ -26,13 +26,13 @@ public class Main {
             JOptionPane.YES_NO_OPTION,
             JOptionPane.ERROR_MESSAGE,
             null,
-            new String[]{"Open Wiki", "Open Mods Folder"},
+            new String[]{"Open Help", "Open Mods Folder"},
             null
         );
 
         switch (option) {
             case 0:
-                getOS().open("https://meteorclient.com/faq/installation");
+                getOS().open("https://github.com/RealZ4bra/ChorusHack/blob/master/README.md");
                 break;
             case 1: {
                 File mods = new File(getModsFolder());
