@@ -17,7 +17,7 @@ Note: This isnt done Yet!
 
 ### Information
 - Most Of the Code Is Owned By Meteor Development
-- More Stuff Below
+- I dont agnowlege Cheating in servers that dont allow it!
 - (I do not profit from this)
 
 ### Download And Install
