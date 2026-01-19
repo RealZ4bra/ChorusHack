@@ -8,7 +8,7 @@ Note: This isnt done Yet!
 <p align="center">#A Minecraft client/utility mod for anarchy! Fork of Meteor</p>
 
 <div align="center">
-    <a href="https://discord.gg/bBGQZvd"><img width="50" height="19" alt="image" src="https://github.com/user-attachments/assets/94630a0d-f29f-420e-9467-987f86acebbe" />
+    <a href="https://discord.gg/8sVSZsqEH4"><img width="50" height="19" alt="image" src="https://github.com/user-attachments/assets/94630a0d-f29f-420e-9467-987f86acebbe" />
 
 
 </div>
