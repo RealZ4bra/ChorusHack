@@ -15,7 +15,7 @@
 
 ## Chorus Hack stuff
 
-## Information
+### Information
 - Most Of the Code Is Owned By Meteor Development
 - More Stuff Below
 - (I do not profit from this)
