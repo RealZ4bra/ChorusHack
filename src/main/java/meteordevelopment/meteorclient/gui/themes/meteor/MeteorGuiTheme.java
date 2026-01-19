@@ -50,7 +50,7 @@ public class MeteorGuiTheme extends GuiTheme {
     public final Setting<Double> scale = sgGeneral.add(new DoubleSetting.Builder()
         .name("scale")
         .description("Scale of the GUI.")
-        .defaultValue(1)
+        .defaultValue(0.931)
         .min(0.75)
         .sliderRange(0.75, 4)
         .onSliderRelease()
@@ -63,7 +63,7 @@ public class MeteorGuiTheme extends GuiTheme {
     public final Setting<AlignmentX> moduleAlignment = sgGeneral.add(new EnumSetting.Builder<AlignmentX>()
         .name("module-alignment")
         .description("How module titles are aligned.")
-        .defaultValue(AlignmentX.Center)
+        .defaultValue(AlignmentX.Left)
         .build()
     );
 
@@ -77,7 +77,7 @@ public class MeteorGuiTheme extends GuiTheme {
     public final Setting<Boolean> hideHUD = sgGeneral.add(new BoolSetting.Builder()
         .name("hide-HUD")
         .description("Hide HUD when in GUI.")
-        .defaultValue(false)
+        .defaultValue(true)
         .onChanged(v -> {
             if (mc.currentScreen instanceof WidgetScreen) mc.options.hudHidden = v;
         })
@@ -86,9 +86,9 @@ public class MeteorGuiTheme extends GuiTheme {
 
     // Colors
 
-    public final Setting<SettingColor> accentColor = color("accent", "Main color of the GUI.", new SettingColor(145, 61, 226));
-    public final Setting<SettingColor> checkboxColor = color("checkbox", "Color of checkbox.", new SettingColor(145, 61, 226));
-    public final Setting<SettingColor> plusColor = color("plus", "Color of plus button.", new SettingColor(50, 255, 50));
+    public final Setting<SettingColor> accentColor = color("accent", "Main color of the GUI.", new SettingColor(174, 127, 172));
+    public final Setting<SettingColor> checkboxColor = color("checkbox", "Color of checkbox.", new SettingColor(203, 203, 203));
+    public final Setting<SettingColor> plusColor = color("plus", "Color of plus button.", new SettingColor(0, 27, 97));
     public final Setting<SettingColor> minusColor = color("minus", "Color of minus button.", new SettingColor(255, 50, 50));
     public final Setting<SettingColor> favoriteColor = color("favorite", "Color of checked favorite button.", new SettingColor(250, 215, 0));
 
