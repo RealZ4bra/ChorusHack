@@ -46,7 +46,7 @@ import java.io.File;
 import java.lang.invoke.MethodHandles;
 
 public class MeteorClient implements ClientModInitializer {
-    public static final String MOD_ID = "meteor-client";
+    public static final String MOD_ID = "chorus-hack";
     public static final ModMetadata MOD_META;
     public static final String NAME;
     public static final Version VERSION;
