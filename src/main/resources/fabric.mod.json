@@ -5,10 +5,8 @@
   "version": "${version}",
   "description": "Utility mod fork from Meteor client",
   "authors": [
-    "MineGame159",
-    "squidoodly",
-    "seasnail",
-    "RealZ4bra"
+    "RealZ4bra",
+    "Meteor Development"
   ],
   "contact": {
     "homepage": "https://meteorclient.com",
