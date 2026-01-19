@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "Chorus Hack",
-  "id": "chorus-hack",
+  "id": "meteor-client",
   "version": "${version}",
   "description": "Utility mod fork from Meteor client",
   "authors": [
