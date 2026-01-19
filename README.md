@@ -21,7 +21,11 @@ Note: This isnt done Yet!
 - (I do not profit from this)
 
 ### Download And Install
-- soon!
+- Install Chorus: https://github.com/RealZ4bra/ChorusHack/releases/tag/Pre.Release
+- Install Fabric: https://fabricmc.net/ (Skip if you already have installed)
+- Run the fabric installer
+- Drag and Drop Chorus Hack.jar Into Your Mods Folder, If you cant find it double click it if you have java.
+- C:\Users\UR-USERNAME\AppData\Roaming\.minecraft
 
 
 
